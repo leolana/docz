@@ -1,6 +1,8 @@
 {
   "private": true,
   "license": "MIT",
+  "name": "docz",
+  "version": "0.10.3",
   "author": {
     "name": "Pedro Nauck",
     "email": "pedronauck@gmail.com",
